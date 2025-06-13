@@ -1,0 +1,6 @@
+mcp[cli]
+ultralytics==8.1.0
+torch==2.2.0
+numpy==1.26.4
+opencv-python-headless
+
